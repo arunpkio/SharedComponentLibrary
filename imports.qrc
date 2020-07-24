@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imports/com/apk/components/Button.qml</file>
+        <file>imports/com/apk/components/qmldir</file>
+        <file>imports/com/apk/components/CheckBox.qml</file>
+        <file>imports/com/apk/components/SpinBox.qml</file>
+    </qresource>
+</RCC>
